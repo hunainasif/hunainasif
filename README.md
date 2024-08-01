@@ -4,7 +4,7 @@
 
 ## About Me
 
-I am a passionate Full Stack Developer from Pakistan with expertise in various technologies. I love building web applications and exploring new trends in the tech world. With a strong foundation in HTML5, CSS3, and JavaScript, I thrive in creating dynamic and interactive user experiences. I specialize in using React.js for front-end development and Node.js, Express.js, and MongoDB for back-end development. I have hands-on experience with SQL databases like MySQL and also working with TypeScript for type-safe development.
+I am a passionate Full Stack javaScript developer with expertise in various technologies. I love building web applications and exploring new trends in the tech world. With a strong foundation in HTML5, CSS3, JavaScript, and different open-source frameworks & libraries . I thrive in creating dynamic and interactive user experiences. I specialize in using React.js for front-end development and Node.js, Express.js, and MongoDB for back-end development. I have hands-on experience with SQL databases like MySQL and also working with TypeScript for type-safe development.
 
 ## My Skills
 
