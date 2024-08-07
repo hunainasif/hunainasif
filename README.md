@@ -19,6 +19,8 @@ I am a passionate Full Stack javaScript developer with expertise in various tech
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Nest.js](https://img.shields.io/badge/Nest.js-000000?style=for-the-badge&logo=nest&logoColor=white)
+
 
 ### Tools
 ![Context API](https://img.shields.io/badge/Context_API-2C8EBB?style=for-the-badge)
