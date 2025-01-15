@@ -1,64 +1,44 @@
-# Hello, I'm Hunain Asif - Full Stack Developer from Pakistan 👋
+# Hi there! 👋  
 
-[![GitHub followers](https://img.shields.io/github/followers/hunainasif?style=social)](https://github.com/hunainasif)
-
-## About Me
-
-I am a passionate Full Stack javaScript developer with expertise in various technologies. I love building web applications and exploring new trends in the tech world. With a strong foundation in HTML5, CSS3, JavaScript, and different open-source frameworks & libraries . I thrive in creating dynamic and interactive user experiences. I specialize in using React.js for front-end development and Node.js, Express.js, and MongoDB for back-end development. I have hands-on experience with SQL databases like MySQL and also working with TypeScript for type-safe development.
-
-## My Skills
-
-### Languages
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### Frameworks
-![React.js](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-
-
-### Tools
-![Context API](https://img.shields.io/badge/Context_API-2C8EBB?style=for-the-badge)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
-
-### Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### Version Control
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
-
-### DevOps
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![GitLab CI/CD](https://img.shields.io/badge/GitLab-CI/CD-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
-
-### Design
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Material UI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-## Github Stats
-
-![Hunain Asif's GitHub stats](https://github-readme-stats.vercel.app/api?username=hunainasif&show_icons=true&theme=radical)
-
-
-Feel free to explore my repositories and don't forget to ⭐️ the ones you find interesting! If you have any questions or just want to say hi, feel free to reach out.
-
-Happy Coding! 🚀
+I am a **Full Stack Web Developer** with hands-on experience in **MERN Stack development**.  
+I specialize in building scalable, high-performance applications using **React.js**, **Next.js**, and **Node.js**.  
+With expertise in integrating **AI solutions**, developing **RAG-based applications**, and leveraging tools like **Langchain** and vector databases, I excel in delivering secure and user-friendly solutions.  
+Additionally, I have a proven track record of collaborating with large, cross-functional teams to maintain clean and efficient code while ensuring project success.  
 
 ---
+
+## 🌟 **Languages**  
+- **JavaScript (ES6+)** / **TypeScript**  
+
+## 🚀 **Frameworks**  
+- **React.js**, **Next.js** (Page/App Router), **Node.js**, **Express.js**, **Nest.js**, **RESTful APIs**  
+
+## 🎨 **Designing**  
+- **Tailwind CSS**, **Sass**, **SCSS**, **Bootstrap**, **Styled Components**, **Shadcn-UI**, **Material-UI (MUI)**  
+
+## 🗄️ **Databases**  
+- **MySQL**, **NoSQL**, **MongoDB**, **Postgres**  
+
+## 🛠️ **Tools**  
+- **Context API**, **Redux**, **Redux Toolkit**, **Axios**, **React Query**, **React Hook Form**, **Prisma**, **Sequelize**, **Formik**  
+- **npm**, **yarn**, **pnpm**, **AWS S3**, **JWT**, **React Router**, **SSR**, **SSG**, **CSR**, **NextAuth**, **Jest**, **Fetch API**, **React Hooks**  
+
+## 🔄 **Version Control**  
+- **Git**, **GitHub**, **GitLab**  
+
+## 📚 **Technical Expertise**  
+- **Progressive Web Apps (PWA)**  
+- **Responsive Design**  
+- **SOLID Principles**  
+- **Agile Methodologies (Scrum)**  
+- **Cross-Browser Compatibility**  
+- **UI/UX Design**  
+- **Unit Testing** & **Test-Driven Development (TDD)**  
+- **Mobile-First Development**  
+
+## 🧑‍💻 **DevOps**  
+- **Docker**, **Kubernetes**, **GitLab CI/CD**  
+
+---
+
+Feel free to connect with me for collaborations or exciting opportunities! 🚀
