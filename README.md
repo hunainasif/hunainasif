@@ -20,7 +20,7 @@ Additionally, I have a proven track record of collaborating with large, cross-fu
 - **MySQL**, **NoSQL**, **MongoDB**, **Postgres**  
 
 ## 🛠️ **Tools**  
-- **Context API**, **Redux**, **Redux Toolkit**, **Axios**, **React Query**, **React Hook Form**, **Prisma**, **Sequelize**, **Formik**  
+- **Context API**,**Zustand** , **Redux**, **Redux Toolkit**, **Axios**, **React Query**, **React Hook Form**, **Prisma**, **Sequelize**, **Formik**  
 - **npm**, **yarn**, **pnpm**, **AWS S3**, **JWT**, **React Router**, **SSR**, **SSG**, **CSR**, **NextAuth**, **Jest**, **Fetch API**, **React Hooks**  
 
 ## 🔄 **Version Control**  
