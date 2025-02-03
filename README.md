@@ -5,6 +5,9 @@ I specialize in building scalable, high-performance applications using **React.j
 With expertise in integrating **AI solutions**, developing **RAG-based applications**, and leveraging tools like **Langchain** and vector databases, I excel in delivering secure and user-friendly solutions.  
 Additionally, I have a proven track record of collaborating with large, cross-functional teams to maintain clean and efficient code while ensuring project success.  
 
+<img align="center" alt="GIF" height="200px" width="400px" src="https://media.tenor.com/YZPnGuPeZv8AAAAd/coding.gif" />
+
+
 ## **Profile Views**
 ![Profile Views](https://komarev.com/ghpvc/?username=hunainasif&color=brightgreen)
 
